@@ -26,7 +26,6 @@ padding: 10px; text-align: right; background-color: blue; border: 1px solid ;bor
 
   <h2>Job Experiences</h2>
   <p>I am currently unemployed <p>
-
   <h2>Hobby</h2>
   <p>My hobbies are reading, sleeping, watching movies and playing board games<p>
   <h2>Other Skills</h2>
